@@ -1,5 +1,8 @@
 ### Hi I'm Stuart 👋
 
+### Articles
+1. Easily create a [superuser](https://gist.io/@stuartelimu/53258c427310bdfce430deac39971e93) for your django project
+
 <!--
 **stuartelimu/stuartelimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
