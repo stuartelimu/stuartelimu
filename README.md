@@ -1,5 +1,11 @@
 ### Hi I'm Stuart 👋
 
+### Work
+Check out some of my work
+
+I built a VS Code [extension](https://marketplace.visualstudio.com/items?itemName=StuartElimu.django-template-snippets) for Django templates.
+
+
 ### Articles
 1. Easily create a [superuser](https://gist.io/@stuartelimu/53258c427310bdfce430deac39971e93) for your django project
 
