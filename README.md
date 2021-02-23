@@ -1,5 +1,5 @@
 ### Hi I'm Stuart 👋
-🌱 I’m currently learning flask, docker and creating apis with django
+🌱 I’m actively learning react, flask, docker and creating apis with django and TDD with python.
 
 ### Work
 Check out some of my work
