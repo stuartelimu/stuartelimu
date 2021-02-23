@@ -1,4 +1,5 @@
 ### Hi I'm Stuart 👋
+🌱 I’m currently learning flask, docker and creating apis with django
 
 ### Work
 Check out some of my work
