@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - Ubuntu 18.04
 - Firefox
 - VS Code
+
+### Languages I Use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuartelimu&amp)](https://github.com/stuartelimu/github-readme-stats)
