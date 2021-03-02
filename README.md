@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
 ### Languages I Use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuartelimu&amp)](https://github.com/stuartelimu/github-readme-stats)
+
+![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuartelimu&amp;show_icons=true&amp;theme=radical)
