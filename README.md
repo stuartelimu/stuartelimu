@@ -11,6 +11,7 @@ I built a VS Code [extension](https://marketplace.visualstudio.com/items?itemNam
 
 ### Articles
 1. Easily create a [superuser](https://gist.io/@stuartelimu/53258c427310bdfce430deac39971e93) for your django project
+2. [My Life At School - Aptech Edition](https://telegra.ph/My-Life-at-School---Aptech-Edition-03-07)
 
 <!--
 **stuartelimu/stuartelimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
