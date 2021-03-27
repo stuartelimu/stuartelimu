@@ -1,12 +1,13 @@
-### Hi I'm Stuart 👋
+### Hi, I'm Stuart 👋
 🌱 I’m actively learning react, flask, docker and creating apis with django and TDD with python.
 
 🤔 I’m looking for help with IOT
 
-### Work
-Check out some of my work
+🔓 Bug hunter
 
-I built a VS Code [extension](https://marketplace.visualstudio.com/items?itemName=StuartElimu.django-template-snippets) for Django templates.
+### Work
+
+- [django-template-snippets](https://marketplace.visualstudio.com/items?itemName=StuartElimu.django-template-snippets)
 
 
 ### Articles
