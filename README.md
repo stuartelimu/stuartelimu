@@ -3,7 +3,7 @@ I'm a software developer, techie and content creator.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/stuartelimu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stuartelimu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoB_n3kBg8wPtt5eXMYY5rQ) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/stuartelimu)
 
-🌱 I’m actively learning react, flask, docker and creating apis with django and TDD with python.
+🌱 I’m actively learning TDD, react, flask, docker and creating apis with django.
 
 🤔 I’m looking for help with IOT
 
