@@ -11,11 +11,12 @@ I'm a software developer, techie and content creator.
 
 ### Work
 
+- [Vaccination & Test Sites](https://vaccination-centers.herokuapp.com/)
 - [django-template-snippets](https://marketplace.visualstudio.com/items?itemName=StuartElimu.django-template-snippets)
 
 
 ### Articles
-1. Easily create a [superuser](https://gist.io/@stuartelimu/53258c427310bdfce430deac39971e93) for your django project
+1. [Life, Work & Books 🤔](https://stuartelimu.medium.com/life-work-books-3a26b9f48e1e)
 2. [My Life At School - Aptech Edition](https://telegra.ph/My-Life-at-School---Aptech-Edition-03-07)
 
 <!--
