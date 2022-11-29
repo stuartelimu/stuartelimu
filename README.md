@@ -10,7 +10,7 @@ I'm a lead software engineer, techie and content creator.
 🔓 Bug hunter
 
 ### Work
-
+- [Find My Rotary]()
 - [charges.ug](https://mmfees.onrender.com/)
 - [Vaccination & Test Sites](https://vaccination-centers.herokuapp.com/)
 - [django-template-snippets](https://marketplace.visualstudio.com/items?itemName=StuartElimu.django-template-snippets)
