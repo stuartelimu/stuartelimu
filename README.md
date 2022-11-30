@@ -3,7 +3,7 @@ I'm a lead software engineer, techie and content creator.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/stuartelimu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stuartelimu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoB_n3kBg8wPtt5eXMYY5rQ) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/stuartelimu)
 
-🌱 I’m actively learning TDD, react, flask, docker and creating apis with django.
+🌱 I’m currently learning TDD, Vue, ruby, Docker and creating apis with ruby on rails.
 
 🤔 I’m looking for help with IOT
 
@@ -20,7 +20,7 @@ I'm a lead software engineer, techie and content creator.
 1. [Life, Work & Books 🤔](https://stuartelimu.medium.com/life-work-books-3a26b9f48e1e)
 2. [My Life At School - Aptech Edition](https://telegra.ph/My-Life-at-School---Aptech-Edition-03-07)
 
-You can find the rest of my articles [here](https://stuartelimu.github.io/)
+You can find the rest of my articles [here](https://stuartelimu.me)
 
 <!--
 **stuartelimu/stuartelimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
